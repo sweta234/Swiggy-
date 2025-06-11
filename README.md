@@ -1,1 +1,5 @@
-# Swiggy-
+🏢 Swiggy – Company Overview
+Swiggy is one of India’s largest online food ordering and delivery platforms, founded in 2014 and headquartered in Bengaluru. The company has revolutionized the food delivery landscape by connecting customers with a wide range of restaurants through a user-friendly mobile app and website.
+
+Summary:
+Launched to uncover business opportunities in the competitive food delivery landscape, this project analyzes restaurant and menu-level data from platforms like Zomato and Swiggy across Indian cities. The analysis spans across categories such as cuisine availability, price-to-rating performance, veg vs. non-veg distribution, item popularity, city-wise restaurant counts, and customer value insights. Using this data, the project aims to identify underserved cuisines in key markets, high-performing local vendors for potential partnerships, and pricing inefficiencies impacting customer satisfaction. The insights are designed to support decisions by cross-functional teams — Operations, Growth, Marketing, and Product. The goal is to enable smarter strategic decisions for regional expansion, promotional targeting, and menu optimization.
