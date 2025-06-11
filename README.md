@@ -1,4 +1,4 @@
-    🏢 Swiggy – Company Overview
+🏢 Swiggy – Company Overview¶
 
 Swiggy is one of India’s largest online food ordering and delivery platforms, founded in 2014 and headquartered in Bengaluru. The company has revolutionized the food delivery landscape by connecting customers with a wide range of restaurants through a user-friendly mobile app and website.
   
